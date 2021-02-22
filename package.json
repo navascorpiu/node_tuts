@@ -4,8 +4,7 @@
   "description": "",
   "main": "server-v1.js",
   "scripts": {
-    "start": "node server.js",
-    "start:dev": "nodemon server.js"
+    "start": "node server"
   },
   "repository": {
     "type": "git",
@@ -14,7 +13,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "module",
   "bugs": {
     "url": "https://github.com/pour68/node_tuts/issues"
   },
